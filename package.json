@@ -1,0 +1,12 @@
+{
+  "name": "cra-storybook",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "create-react-app": "^5.0.1"
+  },
+  "volta": {
+    "node": "18.15.0",
+    "yarn": "1.22.19"
+  }
+}
